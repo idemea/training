@@ -24,7 +24,7 @@
 		<tags>slow</tags>
 		<parallel.tests>4</parallel.tests>
 		<webdriver.base.url>http://google.com</webdriver.base.url>
-		<bs.url></bs.url>
+		<bs_url></bs_url>
 		<bs.os>OSX</bs.os>
 		<bs.browser>chrome</bs.browser>
 	</properties>
